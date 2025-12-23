@@ -6,7 +6,7 @@
 
 ## Vidhi Sheth
 #### MS in Computer Science | Software Engineer | Full Stack Developer | React, Angular, Node.js, Python, .NET, Microsoft SQL Server, MongoDB | Azure | AWS
-
+<br />
 
 ## 💻 Technologies
 
@@ -29,7 +29,7 @@
 ### Version Control System
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+<br />
 
 ## Connect With Me
 
