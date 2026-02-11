@@ -34,5 +34,4 @@
 
 ## Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vidhi-sheth/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/VidhiS07)
