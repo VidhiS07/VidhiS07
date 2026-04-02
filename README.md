@@ -5,7 +5,7 @@
 </h1>
 
 ## Vidhi Sheth
-#### MS in Computer Science | Software Engineer | Full Stack Developer | React, Angular,.NET, Node.js, Python, Microsoft SQL Server, MongoDB | Azure | AWS
+#### MS in Computer Science | Software Engineer | Full Stack Developer | React, Angular,.NET, Python, Node.js, Microsoft SQL Server, MongoDB | Azure | AWS | AI-driven solutions
 <br />
 
 ## 💻 Technologies
@@ -26,10 +26,19 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Cloud
+
+![Azure] (https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### AI-Assisted Development
+
+Github Copilot, Claude
+
 ### Version Control System
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![LinkedIn]
 <br />
 
 ## Connect With Me
