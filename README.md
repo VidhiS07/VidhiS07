@@ -32,7 +32,7 @@
 
 ### AI-Assisted Development
 
-![Github Copilot](https://img.shields.io/badge/GitHub%20Copilot-4B8BFF?style=for-the-badge&logo=github-copilot&logoColor=white), ![Claude](https://img.shields.io/badge/Claude-FF5A5F?style=for-the-badge&logo=anthropic&logoColor=white)
+![Github Copilot](https://img.shields.io/badge/GitHub%20Copilot-4B8BFF?style=for-the-badge&logo=github-copilot&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-FF5A5F?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Version Control System
 
