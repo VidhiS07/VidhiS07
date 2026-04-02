@@ -28,19 +28,19 @@
 
 ### Cloud
 
-![Azure] (https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### AI-Assisted Development
 
-Github Copilot, Claude
+![Github Copilot](https://img.shields.io/badge/GitHub%20Copilot-4B8BFF?style=for-the-badge&logo=github-copilot&logoColor=white), ![Claude](https://img.shields.io/badge/Claude-FF5A5F?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Version Control System
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![LinkedIn]
 <br />
 
 ## Connect With Me
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/VidhiS07)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vidhi-sheth/)
