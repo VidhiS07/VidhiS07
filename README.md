@@ -5,7 +5,7 @@
 </h1>
 
 ## Vidhi Sheth
-#### MS in Computer Science | Software Engineer | Full Stack Developer | Angular, React, .NET, Python, Microsoft SQL Server, Azure | AI-driven solutions
+#### Senior Full-Stack Software Engineer | .NET, Angular, React, SQL Server, Azure | Cloud-Native & AI-Enabled Enterprise Applications | Healthcare, Insurance & FinTech
 <br />
 
 ## 💻 Technologies
